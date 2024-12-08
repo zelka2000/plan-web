@@ -164,6 +164,8 @@ $db = new Database();
 </div>
 
 
+
+<!-- Подключаем GSAP и S CDN -->
 <!-- Подключаем GSAP и ScrollTrigger через CDN -->
 <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.2/gsap.min.js"></script>
