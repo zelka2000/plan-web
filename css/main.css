@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Benzin-Bold";
+  src: url(../font/Benzin-Bold.woff2) format("woff2");
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+    /* overflow: hidden; */
+    /* border: 1px solid red; */
+}
