@@ -1,0 +1,70 @@
+.header {
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.3);
+    -webkit-backdrop-filter: blur(10px);
+    -moz-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    position: fixed;
+    z-index: 100;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    margin-left: 70px;
+}
+
+.logo-text {
+    font-family: "Benzin-Bold";
+    font-size: 20px;
+    margin-left: 10px;
+    color: #ffffff;
+}
+
+.navigator {
+    display: flex;
+    align-items: center;
+}
+
+.nav-link {
+    text-decoration: none;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 50px;
+    color: #ffffff;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+}
+
+.lead {
+    width: 219px;
+    height: 48px;
+    border-radius: 50px;
+    background-color: #FE4A49;
+    color: #FFFFFF;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    border: none;
+    margin-right: 29px;
+}
+
+.menu {
+    width: 48px;
+    height: 48px;
+    border-radius: 48px;
+    background-color: #F1F5F9;
+    color: #0F172A;
+    font-family: "Inter", sans-serif;
+    font-size: 36px;
+    font-weight: 1000;
+    word-spacing: 6px;
+    margin-right: 70px;
+    border: none;
+}
